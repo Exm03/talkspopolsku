@@ -24,4 +24,18 @@ a {color: white;
     text-decoration: none;}
 a:hover {color: silver;
     text-decoration: underline; transition: 0.4s}
+.player iframe {
+  pointer-events: auto !important;
+  z-index: 2;
+}
+
+.player {
+  position: relative;
+  z-index: 1;
+}
+
+.player-wrap,
+.player * {
+  pointer-events: auto;
+}
 @media (max-width:980px){.main-grid{grid-template-columns:1fr}}
