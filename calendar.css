@@ -7,7 +7,7 @@
 }
 
 *{box-sizing: border-box;}
-html,body{height:100%;margin:0;font-family:Montserrat, Arial, sans-serif;background: radial-gradient(circle at 30% 10%, #3b0000, #070707); color:#fff}
+html,body{height:100%;margin:0;font-family:Montserrat, Arial, sans-serif;background: radial-gradient(circle at 30% 50%, #3b0000, #070707); color:#fff}
 .container{max-width:1180px;margin:0 auto;padding:28px}
 
 .site-header.small{padding:18px 0;border-bottom:1px solid rgba(255,255,255,0.03)}
