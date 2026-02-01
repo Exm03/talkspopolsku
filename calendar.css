@@ -6,7 +6,7 @@
   --glass: rgba(255,255,255,0.03);
 }
 
-*{box-sizing:border-box}
+*{}
 html,body{height:100%;margin:0;font-family:Montserrat, Arial, sans-serif;background: radial-gradient(circle at 30% 10%, #3b0000, #070707); color:#fff}
 .container{max-width:1180px;margin:0 auto;padding:28px}
 
@@ -29,7 +29,7 @@ html,body{height:100%;margin:0;font-family:Montserrat, Arial, sans-serif;backgro
 .weekdays{display:grid;grid-template-columns:repeat(7,1fr);gap:6px;color:var(--muted);padding-bottom:8px}
 .calendar-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:10px}
 .day{
-  min-height:92px;padding:8px;border-radius:8px;background:rgba(255,255,255,0.02);position:relative;overflow:visible;
+ width:112.22px;min-height:92px;padding:8px;border-radius:8px;background:rgba(255,255,255,0.02);position:relative;overflow:visible;
   transition:box-shadow .18s, transform .12s;
 }
 .day:hover{transform:translateY(-4px);box-shadow:0 8px 24px rgba(0,0,0,0.6)}
