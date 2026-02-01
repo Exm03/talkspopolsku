@@ -239,12 +239,3 @@
   window._markLessonWatched = markLessonWatched;
   window._polandToday = polandToday;
 })();
-
-
-LESSONS['2026-02-01'] =  {
-  title: "Talent do języków — wideo",
-  tag: "TED",
-  type: "new",
-  href: "lesson.html?id=2026-02-01",
-  icon: "🎧"
-};
