@@ -26,7 +26,7 @@ html,body{height:100%;margin:0;font-family:Montserrat, Arial, sans-serif;backgro
 .cal-header{display:flex;align-items:center;justify-content:space-between;padding-bottom:8px;border-bottom:1px solid rgba(255,255,255,0.03);margin-bottom:10px}
 .month-label{font-weight:600}
 .nav-btn{background:transparent;color:#fff;border:none;font-size:22px;cursor:pointer;opacity:0.9}
-.weekdays{display:grid;grid-template-columns:repeat(7,1fr);gap:6px;color:var(--muted);padding-bottom:8px}
+.weekdays{display:grid;justify-items: center; grid-template-columns:repeat(7,1fr);gap:6px;color:var(--muted);padding-bottom:8px}
 .calendar-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:10px}
 .day{
       box-sizing: initial; width:112.22px;min-height:92px;padding:8px;border-radius:8px;background:rgba(255,255,255,0.02);position:relative;overflow:visible;
