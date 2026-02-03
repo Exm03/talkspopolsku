@@ -190,23 +190,19 @@
       const lesson = LESSONS[dateKey];
         
 
-      if (lesson) {
-        // доступность: доступно если дата урока <= текущая дата в Польше
-        const available = dateKey <= todayPoland;
-        const watched = isLessonWatched(dateKey);
+ if (lesson) {
+  const available = dateKey <= todayPoland;
+  const watched = isLessonWatched(dateKey);
 
-        // фильтр "показывать только новые" (если включён)
-        if (viewOnlyNew || watched) {
-          // не показываем
-        } else {
-          const card = createLessonCard(dateKey, lesson, available, watched);
-          cell.appendChild(card);
-        }
-      }
-
-      calendarGrid.appendChild(cell);
-    }
+  // фильтр "показывать только новые"
+  if (viewOnlyNew && watched) {
+    // не показываем просмотренные уроки
+    continue;
   }
+
+  const card = createLessonCard(dateKey, lesson, available, watched);
+  cell.appendChild(card);
+}
 
   // навигация
   prevBtn.addEventListener('click', function () {
