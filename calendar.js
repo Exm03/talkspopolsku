@@ -196,7 +196,7 @@
         const watched = isLessonWatched(dateKey);
 
         // фильтр "показывать только новые" (если включён)
-        if (viewOnlyNew && !(lesson.type === 'new')) {
+        if (viewOnlyNew && !(lesson.type === 'new') || watched) {
           // не показываем
         } else {
           const card = createLessonCard(dateKey, lesson, available, watched);
