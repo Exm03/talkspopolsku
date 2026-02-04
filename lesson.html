@@ -3,36 +3,45 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Lekcja 1 — TALENT DO JĘZYKÓW TO MIT</title>
+  <title>Lekcja — TALKS PO POLSKU</title>
   <link rel="stylesheet" href="lesson.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    /* Небольшие резервы для статуса без данных */
+    .no-data-notice { font-size: 14px; margin-top:12px; padding:10px; border-radius:8px; background:#fff3cd; color:#856404;}
+    .lesson-icon-wrap { width:48px; height:48px; display:flex; align-items:center; justify-content:center; border-radius:8px; background:rgba(255,255,255,0.04); }
+  </style>
 </head>
 <body>
   <header class="topbar">
     <div class="container">
       <div class="site-title">TALKS PO POLSKU</div>
-      <!-- Навигация убрана: только название -->
     </div>
   </header>
 
   <main class="container main-grid">
     <section class="lesson-left">
-      <nav class="crumbs"><a href="calendar.html">&lt; Plan nauki</a> / Lekcja 1.</nav>
+      <nav class="crumbs"><a href="calendar.html">&lt; Plan nauki</a> / <span id="crumbShort">Lekcja</span></nav>
 
-      <h1 class="lesson-title">Lekcja 1. <strong>Talent do języków to mit.</strong><br>3 kroki, żeby zostać poliglotą</h1>
-      <p class="subtitle"><span class="level">Poziom B1</span> Oglądaj wykład TED Piotra Kruka i poznaj słownictwo.</p>
+      <h1 class="lesson-title" id="lessonTitle">Lekcja — <strong id="lessonTitleStrong">Tytuł</strong></h1>
+      <p class="subtitle"><span class="level" id="lessonLevel">Poziom</span> <span id="lessonSubtitle"></span></p>
 
       <!-- Видео-плеер -->
-      <div id="playerWrap" class="player-wrap">
-        <div id="player" class="player"></div>
+      <div id="playerWrap" class="player-wrap" aria-live="polite">
+        <div id="player" class="player" role="region" aria-label="Wideo lekcji"></div>
       </div>
 
       <div class="lesson-description">
-        <h3>O lekcji</h3>
-        <p>Audition i zapoznanie ze słownictwem z wystąpienia:
-          <em>TALENT DO JĘZYKÓW TO MIT. PIOTR KRUK | TEDxSGH</em></p>
+        <h3 id="aboutHeading">O lekcji</h3>
+        <p id="lessonDesc"><em>Krótki opis lekcji...</em></p>
 
         <div class="actions-row">
-          <button id="markWatched" class="btn-outline">Oznacz jako obejrzane</button
+          <button id="markWatched" class="btn-outline">Oznacz jako obejrzane</button>
+        </div>
+
+        <div class="time-info" style="margin-top:10px;">
+          <span id="currentTime">00:00</span>
+          <span id="duration">/ 00:00</span>
         </div>
       </div>
     </section>
@@ -40,10 +49,27 @@
     <aside class="lesson-right">
       <div class="panel plan-panel">
         <h4>Plan lekcji</h4>
+
+        <div style="display:flex;gap:12px;align-items:center;margin-bottom:10px">
+          <div class="lesson-icon-wrap" id="lessonIconWrap" aria-hidden="true"></div>
+          <div style="flex:1">
+            <div id="planTitle" style="font-weight:700;font-size:14px">Nazwa modułu</div>
+            <div id="planMeta" style="font-size:12px;color:var(--muted)">Dodatkowe info</div>
+          </div>
+        </div>
+
         <ol class="plan-list">
           <li class="plan-item done">TED — <a href="#" id="playVideoLink">Wysłuchaj wykładu</a></li>
-          <li class="plan-item">Słownictwo — <a id="linkDictionary" href="https://quizlet.com/pl/1137942144/1-talent-do-jezykow-to-mit-3-kroki-zeby-zostac-poliglota-piotr-kruk-tedxsgh-flash-cards/?funnelUUID=7a6a4d22-904a-4cc3-82f5-2855d55b2ae2">Poznaj słowa</a></li>
-          <li class="plan-item">Zadanie — <a id="linkExercise" href="https://forms.gle/fB2mAchukjYC4Dc28">Zrób zadanie</a></li>
+          <li class="plan-item">Słownictwo — <a id="linkDictionary" href="#">Poznaj słowa</a></li>
+          <li class="plan-item">
+  Zadanie —
+  <span class="exercise-links">
+    <a id="linkB1" href="#">B1</a>
+    <a id="linkB2" href="#">B2</a>
+    <a id="linkC1" href="#">C1</a>
+    <a id="linkAll" href="#">Wszystkie</a>
+  </span>
+</li>
         </ol>
         <button id="openDictionary" class="btn-primary">Poznaj słowa →</button>
       </div>
@@ -61,6 +87,8 @@
   </main>
 
   <!-- YouTube API -->
+  
+  <script src="calendar.js"></script>
   <script src="https://www.youtube.com/iframe_api"></script>
   <script src="lesson.js"></script>
 </body>
