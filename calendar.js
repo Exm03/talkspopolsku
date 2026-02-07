@@ -15,7 +15,7 @@
   ALL: "https://docs.google.com/forms/d/1-GiAp0qTVyw36upl4qzLF5nrBP_hPhZMZMjjr15HsQA/edit?usp=drivesdk"
 }, 
       icon: "🎧"},
-    "2026-02-03": { title: "[CZYT] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-03", videoId: "pRyIzUMka-c", vocabHref: "", exercises: {
+    "2026-02-03": { title: "[CZYT] Talent do języków to mit", type: "new", href: "lesson.html?id=2026-02-03", videoId: "96gGoITaeG4", vocabHref: "", exercises: {
   B1: "https://docs.google.com/forms/d/1-O_R3QBtxhKg06s0ZbOp_nGal1U0zXmRGXjMU8UFKxk/edit?usp=drivesdk",
   B2: "https://docs.google.com/forms/d/1IEmXa4UKQV4zvmQHgJi0AvAKIMKU-wUiw0XpjCFFr1M/edit?usp=drivesdk",
   C1: "https://docs.google.com/forms/d/1Qg1Irj6ydwBl20DYfVvmaHcDOpdQp8Ynlbikd-3-Czw/edit?usp=drivesdk",
