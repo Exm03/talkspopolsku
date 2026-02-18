@@ -73,7 +73,7 @@
   B1: " ",
   B2: " ",
   C1: " ",
-  ALL: " "
+  ALL: "https://forms.gle/B3ePPcvFuczoiZd27"
 } , icon:"📄"},
     "2026-02-21": { title: "[GRAM] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-21", videoId: "MYH2qGScEVk", vocabHref: "https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new",  exercises: {
   B1: " ",
