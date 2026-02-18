@@ -58,10 +58,10 @@
   ALL: "https://docs.google.com/forms/d/e/1FAIpQLScUjhz7sUaP51Afm5IW7IkrNqWKKoNIMgaJF2eqOQCRoOYExw/viewform?usp=publish-editor "
 }, icon: "📚" },
     "2026-02-15": { title: "[PIS] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-15", videoId: "rzwnYM0s1b4", vocabHref: "https://quizlet.com/pl/1141687235/2-cyfrowy-obrzek-mozgu-bartosz-dembinski-tedxaghuniversity-flash-cards/", exercises: {
-  B1: " ",
-  B2: " ",
-  C1: " ",
-  ALL: " "
+  B1: "https://forms.gle/3gBEBixgayUsmoGe8 ",
+  B2: "https://forms.gle/A45fBX5hUE5JQvdT7 ",
+  C1: "https://forms.gle/QrELnsXyEU9EHapUA",
+  ALL: "https://docs.google.com/forms/d/e/1FAIpQLSeKVqXSDYGVm2LfkJDtexS5gmz4Jjyutkmpj6zU5mYptrsWaw/viewform?usp=publish-editor"
 }, icon: "✍" },
     "2026-02-17": { title: "[SŁUCH] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-09", videoId: "MYH2qGScEVk", vocabHref: "",  exercises: {
   B1: " ",
