@@ -39,49 +39,49 @@
   C1: "https://docs.google.com/forms/d/1ycxcD9WfAX5fc-RnDLi0vg4BkfvuEIcXl9Ja-DzT3wY/edit?usp=drivesdk",
   ALL: "https://docs.google.com/forms/d/1ofZlJtKiVk1Ryr1XIwDtCML5vnh9y9HsAMRhVfdqWWM/edit?usp=drivesdk"
 }, icon: "✍" },
-    "2026-02-09": { title: "[SŁUCH] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-09", videoId: "96gGoITaeG4", vocabHref: "https://quizlet.com/pl/1141687235/2-cyfrowy-obrzek-mozgu-bartosz-dembinski-tedxaghuniversity-flash-cards/",  exercises: {
+    "2026-02-09": { title: "[SŁUCH] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-09", videoId: "rzwnYM0s1b4", vocabHref: "https://quizlet.com/pl/1141687235/2-cyfrowy-obrzek-mozgu-bartosz-dembinski-tedxaghuniversity-flash-cards/",  exercises: {
   B1: "https://forms.gle/5feRE5HWeCw4oFGc8",
   B2: "https://forms.gle/fw9Z84USE3S9P1PdA",
   C1: "https://forms.gle/3uYhzN5NdBGVCgc47",
   ALL: "https://forms.gle/zpjnw9yiCCZ2Y5Pv6"
 }, icon: "🎧" },
-    "2026-02-11": { title: "[CZYT] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-11", videoId: "96gGoITaeG4", vocabHref:"https://quizlet.com/pl/1141687235/2-cyfrowy-obrzek-mozgu-bartosz-dembinski-tedxaghuniversity-flash-cards/" , exercises: {
+    "2026-02-11": { title: "[CZYT] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-11", videoId: "rzwnYM0s1b4", vocabHref:"https://quizlet.com/pl/1141687235/2-cyfrowy-obrzek-mozgu-bartosz-dembinski-tedxaghuniversity-flash-cards/" , exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
   ALL: " "
 } , icon:"📄"},
-    "2026-02-13": { title: "[GRAM] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-13", videoId: "96gGoITaeG4", vocabHref: "https://quizlet.com/pl/1141687235/2-cyfrowy-obrzek-mozgu-bartosz-dembinski-tedxaghuniversity-flash-cards/",  exercises: {
+    "2026-02-13": { title: "[GRAM] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-13", videoId: "rzwnYM0s1b4", vocabHref: "https://quizlet.com/pl/1141687235/2-cyfrowy-obrzek-mozgu-bartosz-dembinski-tedxaghuniversity-flash-cards/",  exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
   ALL: " "
 }, icon: "📚" },
-    "2026-02-15": { title: "[PIS] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-15", videoId: "96gGoITaeG4", vocabHref: "https://quizlet.com/pl/1141687235/2-cyfrowy-obrzek-mozgu-bartosz-dembinski-tedxaghuniversity-flash-cards/", exercises: {
+    "2026-02-15": { title: "[PIS] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-15", videoId: "rzwnYM0s1b4", vocabHref: "https://quizlet.com/pl/1141687235/2-cyfrowy-obrzek-mozgu-bartosz-dembinski-tedxaghuniversity-flash-cards/", exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
   ALL: " "
 }, icon: "✍" },
-    "2026-02-17": { title: "[SŁUCH] FEMINATYWY", type: "new", href: "lesson.html?id=2026-02-09", videoId: "MYH2qGScEVk", vocabHref: "",  exercises: {
+    "2026-02-17": { title: "[SŁUCH] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-09", videoId: "MYH2qGScEVk", vocabHref: "",  exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
   ALL: " "
 }, icon: "🎧" },
-    "2026-02-19": { title: "[CZYT] FEMINATYWY", type: "new", href: "lesson.html?id=2026-02-11", videoId: "MYH2qGScEVk", vocabHref:"" , exercises: {
+    "2026-02-19": { title: "[CZYT] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-11", videoId: "MYH2qGScEVk", vocabHref:"" , exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
   ALL: " "
 } , icon:"📄"},
-    "2026-02-21": { title: "[GRAM] FEMINATYWY", type: "new", href: "lesson.html?id=2026-02-13", videoId: "MYH2qGScEVk", vocabHref: "",  exercises: {
+    "2026-02-21": { title: "[GRAM] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-13", videoId: "MYH2qGScEVk", vocabHref: "",  exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
   ALL: " "
 }, icon: "📚" },
-    "2026-02-23": { title: "[PIS] FEMINATYWY", type: "new", href: "lesson.html?id=2026-02-15", videoId: "MYH2qGScEVk", vocabHref: "", exercises: {
+    "2026-02-23": { title: "[PIS] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-15", videoId: "MYH2qGScEVk", vocabHref: "", exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
