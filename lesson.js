@@ -83,16 +83,16 @@ let templateReady = false;
   ALL: "https://docs.google.com/forms/d/1ofZlJtKiVk1Ryr1XIwDtCML5vnh9y9HsAMRhVfdqWWM/edit?usp=drivesdk"
 }, icon: "✍" },
     "2026-02-09": { title: "[SŁUCH] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-09", videoId: "96gGoITaeG4", vocabHref: "https://quizlet.com/pl/1141687235/2-cyfrowy-obrzek-mozgu-bartosz-dembinski-tedxaghuniversity-flash-cards/",  exercises: {
-  B1: "",
-  B2: "",
-  C1: "",
-  ALL: ""
+  B1: "https://forms.gle/5feRE5HWeCw4oFGc8",
+  B2: "https://forms.gle/fw9Z84USE3S9P1PdA",
+  C1: "https://forms.gle/3uYhzN5NdBGVCgc47",
+  ALL: "https://forms.gle/zpjnw9yiCCZ2Y5Pv6"
 }, icon: "🎧" },
     "2026-02-11": { title: "[CZYT] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-11", videoId: "96gGoITaeG4", vocabHref:"https://quizlet.com/pl/1141687235/2-cyfrowy-obrzek-mozgu-bartosz-dembinski-tedxaghuniversity-flash-cards/" , exercises: {
-  B1: "https://docs.google.com/forms/d/1-O_R3QBtxhKg06s0ZbOp_nGal1U0zXmRGXjMU8UFKxk/edit?usp=drivesdk",
-  B2: "https://docs.google.com/forms/d/1IEmXa4UKQV4zvmQHgJi0AvAKIMKU-wUiw0XpjCFFr1M/edit?usp=drivesdk",
-  C1: "https://docs.google.com/forms/d/1Qg1Irj6ydwBl20DYfVvmaHcDOpdQp8Ynlbikd-3-Czw/edit?usp=drivesdk",
-  ALL: "https://docs.google.com/forms/d/1-GiAp0qTVyw36upl4qzLF5nrBP_hPhZMZMjjr15HsQA/edit?usp=drivesdk"
+  B1: " ",
+  B2: " ",
+  C1: " ",
+  ALL: " "
 } , icon:"📄"},
     "2026-02-13": { title: "[GRAM] Cyfrowy obrzęk mózgu", type: "new", href: "lesson.html?id=2026-02-13", videoId: "96gGoITaeG4", vocabHref: "https://quizlet.com/pl/1141687235/2-cyfrowy-obrzek-mozgu-bartosz-dembinski-tedxaghuniversity-flash-cards/",  exercises: {
   B1: "https://docs.google.com/forms/d/1-O_R3QBtxhKg06s0ZbOp_nGal1U0zXmRGXjMU8UFKxk/edit?usp=drivesdk",
