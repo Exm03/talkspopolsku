@@ -63,25 +63,25 @@
   C1: "https://forms.gle/QrELnsXyEU9EHapUA",
   ALL: "https://docs.google.com/forms/d/e/1FAIpQLSeKVqXSDYGVm2LfkJDtexS5gmz4Jjyutkmpj6zU5mYptrsWaw/viewform?usp=publish-editor"
 }, icon: "✍" },
-    "2026-02-17": { title: "[SŁUCH] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-09", videoId: "MYH2qGScEVk", vocabHref: "",  exercises: {
+    "2026-02-17": { title: "[SŁUCH] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-09", videoId: "MYH2qGScEVk", vocabHref: "https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new",  exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
   ALL: " "
 }, icon: "🎧" },
-    "2026-02-19": { title: "[CZYT] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-11", videoId: "MYH2qGScEVk", vocabHref:"" , exercises: {
+    "2026-02-19": { title: "[CZYT] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-11", videoId: "MYH2qGScEVk", vocabHref:"https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new" , exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
   ALL: " "
 } , icon:"📄"},
-    "2026-02-21": { title: "[GRAM] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-13", videoId: "MYH2qGScEVk", vocabHref: "",  exercises: {
+    "2026-02-21": { title: "[GRAM] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-13", videoId: "MYH2qGScEVk", vocabHref: "https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new",  exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
   ALL: " "
 }, icon: "📚" },
-    "2026-02-23": { title: "[PIS] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-15", videoId: "MYH2qGScEVk", vocabHref: "", exercises: {
+    "2026-02-23": { title: "[PIS] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-15", videoId: "MYH2qGScEVk", vocabHref: "https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new", exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
