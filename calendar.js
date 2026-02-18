@@ -63,25 +63,25 @@
   C1: "https://forms.gle/QrELnsXyEU9EHapUA",
   ALL: "https://docs.google.com/forms/d/e/1FAIpQLSeKVqXSDYGVm2LfkJDtexS5gmz4Jjyutkmpj6zU5mYptrsWaw/viewform?usp=publish-editor"
 }, icon: "✍" },
-    "2026-02-17": { title: "[SŁUCH] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-09", videoId: "MYH2qGScEVk", vocabHref: "https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new",  exercises: {
+    "2026-02-17": { title: "[SŁUCH] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-17", videoId: "MYH2qGScEVk", vocabHref: "https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new",  exercises: {
   B1: "https://docs.google.com/forms/d/e/1FAIpQLScJyiOrshEzMFCPvuIGW5LLPz0rVe0VguMqB3iHbqBBwVnH_Q/viewform?usp=publish-editor ",
   B2: "https://docs.google.com/forms/d/e/1FAIpQLSe7lxBHWtQkurwZ-OoNFFqsxKTwWMXtY-w_Bgeow19JRyi4jA/viewform?usp=publish-editor ",
   C1: "https://docs.google.com/forms/d/e/1FAIpQLSerYbVpO2KN-BoQrgdFbtE6TGGPnhQM44hHvewduR6JLHsfFg/viewform?usp=publish-editor ",
   ALL: "https://docs.google.com/forms/d/e/1FAIpQLSfTMpgxpyyZUhjwZ39tbzLmr-0BB9o-_QW3xxQxwBRjd5b4eA/viewform?usp=publish-editor "
 }, icon: "🎧" },
-    "2026-02-19": { title: "[CZYT] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-11", videoId: "MYH2qGScEVk", vocabHref:"https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new" , exercises: {
+    "2026-02-19": { title: "[CZYT] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-19", videoId: "MYH2qGScEVk", vocabHref:"https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new" , exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
   ALL: " "
 } , icon:"📄"},
-    "2026-02-21": { title: "[GRAM] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-13", videoId: "MYH2qGScEVk", vocabHref: "https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new",  exercises: {
+    "2026-02-21": { title: "[GRAM] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-21", videoId: "MYH2qGScEVk", vocabHref: "https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new",  exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
   ALL: " "
 }, icon: "📚" },
-    "2026-02-23": { title: "[PIS] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-15", videoId: "MYH2qGScEVk", vocabHref: "https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new", exercises: {
+    "2026-02-23": { title: "[PIS] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-23", videoId: "MYH2qGScEVk", vocabHref: "https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new", exercises: {
   B1: " ",
   B2: " ",
   C1: " ",
