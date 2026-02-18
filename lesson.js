@@ -106,6 +106,30 @@ let templateReady = false;
   C1: " ",
   ALL: " "
 }, icon: "✍" },
+    "2026-02-17": { title: "[SŁUCH] FEMINATYWY", type: "new", href: "lesson.html?id=2026-02-09", videoId: "MYH2qGScEVk", vocabHref: "",  exercises: {
+  B1: " ",
+  B2: " ",
+  C1: " ",
+  ALL: " "
+}, icon: "🎧" },
+    "2026-02-19": { title: "[CZYT] FEMINATYWY", type: "new", href: "lesson.html?id=2026-02-11", videoId: "MYH2qGScEVk", vocabHref:"" , exercises: {
+  B1: " ",
+  B2: " ",
+  C1: " ",
+  ALL: " "
+} , icon:"📄"},
+    "2026-02-21": { title: "[GRAM] FEMINATYWY", type: "new", href: "lesson.html?id=2026-02-13", videoId: "MYH2qGScEVk", vocabHref: "",  exercises: {
+  B1: " ",
+  B2: " ",
+  C1: " ",
+  ALL: " "
+}, icon: "📚" },
+    "2026-02-23": { title: "[PIS] FEMINATYWY", type: "new", href: "lesson.html?id=2026-02-15", videoId: "MYH2qGScEVk", vocabHref: "", exercises: {
+  B1: " ",
+  B2: " ",
+  C1: " ",
+  ALL: " "
+}, icon: "✍" },
   
   };
 
