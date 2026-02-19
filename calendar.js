@@ -70,9 +70,9 @@
   ALL: "https://docs.google.com/forms/d/e/1FAIpQLSfTMpgxpyyZUhjwZ39tbzLmr-0BB9o-_QW3xxQxwBRjd5b4eA/viewform?usp=publish-editor "
 }, icon: "🎧" },
     "2026-02-19": { title: "[CZYT] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-19", videoId: "MYH2qGScEVk", vocabHref:"https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new" , exercises: {
-  B1: " ",
-  B2: " ",
-  C1: " ",
+  B1: "https://forms.gle/5aQNuZPEyiPR2txG9",
+  B2: "https://forms.gle/BANRjuLgf4WpkjJg7 ",
+  C1: "https://forms.gle/HywuiZDK4Ziji8pA7",
   ALL: "https://forms.gle/B3ePPcvFuczoiZd27"
 } , icon:"📄"},
     "2026-02-21": { title: "[GRAM] FEMINA- TYWY", type: "new", href: "lesson.html?id=2026-02-21", videoId: "MYH2qGScEVk", vocabHref: "https://quizlet.com/pl/1145531822/3-feminatywy-o-genderowej-nowomowie-slow-kilka-maciej-makselon-tedxkoszalin-flash-cards/?new",  exercises: {
